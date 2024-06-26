@@ -1,0 +1,16 @@
+numpy
+streamlit
+plotly
+textblob
+pandas
+matplotlib
+wordcloud
+prophet
+networkx
+igraph
+streamlit_extras
+openpyxl
+google-api-python-client
+scipy
+
+
